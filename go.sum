@@ -1,4 +1,4 @@
-github.com/GlebAltshifter/go-mod-versioning-test-lib/v2 v2.0.0-20201209102808-3feac0b9a077 h1:W09SlkXQXWHaIYi+rp6ZUfg7hqv6vbUbXgeWrl8Se9M=
-github.com/GlebAltshifter/go-mod-versioning-test-lib/v2 v2.0.0-20201209102808-3feac0b9a077/go.mod h1:l7kvlGlRHPaunfSKQ2v2hJdh6botEdmyuuAorAcBPEY=
+github.com/GlebAltshifter/go-mod-versioning-test-lib/v2 v2.0.2 h1:DOGSTUp8wjdtFb63ohgk2mylgyDlV7AIKWBHac9i2WA=
+github.com/GlebAltshifter/go-mod-versioning-test-lib/v2 v2.0.2/go.mod h1:l7kvlGlRHPaunfSKQ2v2hJdh6botEdmyuuAorAcBPEY=
 github.com/shopspring/decimal v1.2.0 h1:abSATXmQEYyShuxI4/vyW3tV1MrKAJzCZ/0zLUXYbsQ=
 github.com/shopspring/decimal v1.2.0/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
