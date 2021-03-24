@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	print(testlib.Sum(decimal.New(12, 1), decimal.New(11, 1)).String())
+	print(testlib.Sum(decimal.New(10, 1), decimal.New(11, 1)).String())
 }
